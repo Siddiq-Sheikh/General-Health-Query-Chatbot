@@ -45,8 +45,8 @@ health_chatbot/
 └── logs/                    # Auto-generated chat session logs
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/health-query-chatbot.git
-cd health-query-chatbot
+git clone https://github.com/Siddiq-Sheikh/General-Health-Query-Chatbot
+cd General-Health-Query-Chatbot
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 3️⃣ Configure Environment Variables
